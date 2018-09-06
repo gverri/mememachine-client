@@ -1,7 +1,7 @@
 const dev = {
   s3: {
     REGION: "us-east-1",
-    BUCKET: "YOUR_DEV_S3_UPLOADS_BUCKET_NAME"
+    BUCKET: "mememachine-api-dev-attachmentsbucket-x331b09lo6fw"
   },
   apiGateway: {
     REGION: "us-east-1",

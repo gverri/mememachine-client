@@ -1,5 +1,4 @@
 import React, { Component } from "react";
-import { API } from "aws-amplify";
 
 export default class Settings extends Component {
   constructor(props) {

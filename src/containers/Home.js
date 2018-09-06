@@ -65,8 +65,8 @@ export default class Home extends Component {
   renderLander() {
     return (
       <div className="lander">
-        <h1>Scratch</h1>
-        <p>A simple video taking app</p>
+        <h1>Meme Machine</h1>
+        <p>Facilitating the sourcing of meme material</p>
         <div>
           <Link to="/login" className="btn btn-info btn-lg">
             Login
